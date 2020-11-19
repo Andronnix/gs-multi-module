@@ -57,7 +57,7 @@
 	
 	<pluginRepositories>
 		<pluginRepository>
-			<id>Apache</id>
+			<id>central</id>
 			<url>https://repository.apache.org/content/groups/public/</url>
 		</pluginRepository>
 	</pluginRepositories>
