@@ -12,5 +12,7 @@
         <module>library</module>
         <module>application</module>
     </modules>
-
+    
+    <pluginRepositories>
+    </<pluginRepositories>
 </project>
