@@ -55,17 +55,18 @@
 		</plugins>
 	</build>
 	
-	<pluginRepository>
-		<repository>
-			<id>Apache</id>
-			<url>https://repository.apache.org/content/groups/public/</url>
-			<releases>
-			    <enabled>true</enabled>
-			</releases>
-			<snapshots>
-			    <enabled>true</enabled>
-			</snapshots>
-		</repository>
-	</pluginRepository>
-
+	<pluginRepositories>
+		<pluginRepository>
+			<repository>
+				<id>Apache</id>
+				<url>https://repository.apache.org/content/groups/public/</url>
+				<releases>
+				    <enabled>true</enabled>
+				</releases>
+				<snapshots>
+				    <enabled>true</enabled>
+				</snapshots>
+			</repository>
+		</pluginRepository>
+	</pluginRepositories>
 </project>
